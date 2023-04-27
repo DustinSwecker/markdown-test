@@ -6,7 +6,7 @@ j
   
 ##Table of Contents 
 
-■[Installation](#installation) ■[Usage](/README.md#usage) ■[Contributors](/README.md#credits) ■[How to Contribute](/README.md#how-to-Contribute) ■[Testing](/README.md#testing) ■[License](/README.md#license) ■[Questions](/README.md#questions?-reach-out-at)
+■[Installation](#installation) ■[Usage](#usage) ■[Contributors](#credits) ■[How to Contribute](#how-to-Contribute) ■[Testing](#testing) ■[License](#license) ■[Questions](#questions?-reach-out-at)
 
 ##Installation
 
