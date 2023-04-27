@@ -1,10 +1,10 @@
-#j  
+# j  
     
-##Description
+## Description
 
 j
   
-##Table of Contents 
+## Table of Contents 
 
 ■[Installation](#installation)  
 ■[Usage](#usage)   
@@ -14,33 +14,33 @@ j
 ■[License](#license)  
 ■[Questions](#questions?-reach-out-at)  
 
-##Installation
+## Installation
 
 j
 
-##Usage 
+## Usage 
 
 j
 
-##Credits 
+## Credits 
 
 y
 
-##How to Contribute 
+## How to Contribute 
 
 y>
 
-##Testing 
+## Testing 
 
 y
 
-##Questions? Reach out at 
+## Questions? Reach out at 
 
 Github: "https://github.com/y"
 
 Email: y
   
-##License
+## License
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
